@@ -1,4 +1,4 @@
-package chris.bci;
+package chris;
 
 public abstract class PersonnelType {
 
